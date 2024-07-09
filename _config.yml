@@ -21,7 +21,8 @@
 title: ブログ
 email: mitayan@duck.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Trying something without knowing the details is actually beneficial for your immune system.
+  If you want a chicken to be a duck, and a duck to be a chicken, you will suffer.
+   -Ajahn Chah
 baseurl: "m_blog" # the subpath of your site, e.g. /blog
 url: "https://github.com/mitayan0/m_blog.git" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pineapplem11
